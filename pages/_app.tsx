@@ -55,12 +55,12 @@ export default class MyApp extends App {
           <meta name="theme-color" content="#000000" />
           <meta
             name="description"
-            content="Socialify your project. Share with the world!"
+            content="💞 Socialify your project. 🌐 Share with the world!"
           />
-          <meta
-            property="og:image"
-            content="https://socialify.git.ci/wei/socialify/png?theme=Dark&language=1&owner=0&description=1&pattern=Charlie+Brown&issues=1&pulls=1&font=Inter&logo=https%3A%2F%2Fgist.githack.com%2Fwei%2F13e3f6e161cb1d0709abd847102dc80c%2Fraw%2Fmlh-white-square.svg"
-          />
+          <meta property="og:image" content="/assets/socialify.png" />
+          <meta property="og:image:type" content="image/png" />
+          <meta property="og:image:width" content="1280" />
+          <meta property="og:image:height" content="640" />
           <link rel="apple-touch-icon" href="/assets/logo192.png" />
           <link rel="manifest" href="/manifest.json" />
           <title>GitHub Socialify</title>
